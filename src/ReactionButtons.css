@@ -1,0 +1,7 @@
+.reactionButton:hover{
+    cursor: pointer;
+}
+
+.emoji {
+    padding: 100px;
+}

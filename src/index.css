@@ -69,7 +69,9 @@ form {
   border: none;
   color: whitesmoke;
   font-size: 1rem;
+  cursor: pointer;
 }
+
 
 .emoji {
   background-color: #807d7d;
