@@ -29,6 +29,11 @@ main {
   margin: auto;
 }
 
+.app {
+  max-width: 700px;
+  margin: auto;
+}
+
 section {
   margin-top: 1em;
 }
